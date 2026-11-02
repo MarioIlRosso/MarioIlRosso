@@ -1,17 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarioIlRosso&label=Profile%20views&color=0e75b6&style=flat" alt="MarioIlRosso" /> </p>
 
-- Italian
-
 ## Languages
-<p align="left">
-	<img src="https://www.pngmart.com/files/23/Python-Logo-PNG-Clipart.png" width="50">
-	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/rust-programming-language-icon.svg" width="50">
-	<img src='https://www.freeiconspng.com/uploads/c--logo-icon-0.png' width="50">
-</p>
+My favorite language is Rust.<br>
+I also know C and C++ and a little bit of x86-64 assembly, but not as much as rust.
 
 ## Tools
-<p align="left">
-	<img src="https://www.linuxfortranslators.org/images/Tux_Enhanced.svg.png" width="50">
-	<img src="https://cdn.jsdelivr.net/gh/neovim/neovim@f05a289/cmake.packaging/neovim.svg" width="50">
-	<img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" width="50">
-</p>
+I use Linux as my main OS (Arch Linux specifically, please don't hate me for this), but also dual-boot with Windows.<br>
+For programming, i use [Neovim](https://github.com/neovim/neovim), you can check out [my config](https://github.com/MarioIlRosso/Dotfiles/tree/main/nvim/.config/nvim).<br>
